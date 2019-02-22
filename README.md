@@ -1,2 +1,0 @@
-# ratneshpy
-Ratnesh Python package
